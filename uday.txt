@@ -4,3 +4,4 @@ this is server
 this is from f-1
 this is from f-2
 meged file f-1
+merged file f-2
